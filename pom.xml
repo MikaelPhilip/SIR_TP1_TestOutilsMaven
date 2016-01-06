@@ -52,8 +52,8 @@
     </plugins> 
  </reporting>
  <scm>
-<connection>scm:svn:svn://127.0.0.1/repository1/monappli-web</connection>
- <url>http://127.0.0.1/svn/monappli-web</url>
+<connection>scm:git:https://github.com/MikaelPhilip/SIR_TestOutilsMaven.git</connection>
+ <url>https://github.com/MikaelPhilip/SIR_TestOutilsMaven.git</url>
 </scm>
  
 </project>
